@@ -1,0 +1,12 @@
+Program: in cursul saptamanii - in medie 2 ore pe zi de invatat, in weekend 8 ore
+Structura acestui proiect  este pe obiective - fiecare obiectiv este reprezentat de un pachet.
+    Fiecare pachet poate contine alte pachete cu sub-obiective.
+    Fiecare pachet contine neaparat sub-pachete/clase care sa reprezinte:
+        exam-tips - explicatiii despre subiectele care sunt confusing
+        notes - atrag atentia asupra unor chestii de finete care ar trebui avute in vedere la examen
+        *sidebard - nu neaparat necesar
+        *chesti rezultate din scheme din carte
+        TwistInTheTaleExercises - modificari mici in cod cu impact mare
+        *review notes  -  mai mult pentru recaptirulare pt examen
+        examQuestions
+
